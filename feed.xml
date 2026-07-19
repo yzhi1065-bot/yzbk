@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>墨记 — 技术与生活随笔</title>
-  <link href="https://mo-notes.example.com/"/>
-  <link rel="self" href="https://mo-notes.example.com/feed.xml"/>
-  <id>https://mo-notes.example.com/</id>
-  <updated>2026-07-19T02:05:08.360Z</updated>
+  <link href="https://yzhi1065-bot.github.io/yzbk/"/>
+  <link rel="self" href="https://yzhi1065-bot.github.io/yzbk/feed.xml"/>
+  <id>https://yzhi1065-bot.github.io/yzbk/</id>
+  <updated>2026-07-19T04:01:25.930Z</updated>
   <author><name>墨记</name></author>
   <subtitle>用文字记录思考，用代码构建世界</subtitle>
     <entry>
+      <title>杨智 | 个人简介</title>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/yangzhi-profile"/>
+      <id>tag:mo-notes,2026-07-11:yangzhi-profile</id>
+      <updated>2026-07-10T16:00:00.000Z</updated>
+      <published>2026-07-10T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>杨智，出身中医世家，祖辈四代从医，硕士研究生。执业中医师、副主任中医师，擅长骨科、内科、妇科及肿瘤辅助治疗，精于中药、针灸、刃针、整脊等疗法。</summary>
+    </entry>
+    <entry>
       <title>你好，世界 — 博客的第一篇文章</title>
-      <link href="https://mo-notes.example.com/#/post/hello-world"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/hello-world"/>
       <id>tag:mo-notes,2026-07-10:hello-world</id>
       <updated>2026-07-09T16:00:00.000Z</updated>
       <published>2026-07-09T16:00:00.000Z</published>
@@ -18,7 +27,7 @@
     </entry>
     <entry>
       <title>深入理解 JavaScript 闭包</title>
-      <link href="https://mo-notes.example.com/#/post/understanding-closure"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/understanding-closure"/>
       <id>tag:mo-notes,2026-07-08:understanding-closure</id>
       <updated>2026-07-07T16:00:00.000Z</updated>
       <published>2026-07-07T16:00:00.000Z</published>
@@ -27,7 +36,7 @@
     </entry>
     <entry>
       <title>CSS Grid 与 Flexbox 实战指南</title>
-      <link href="https://mo-notes.example.com/#/post/css-grid-flexbox"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/css-grid-flexbox"/>
       <id>tag:mo-notes,2026-07-05:css-grid-flexbox</id>
       <updated>2026-07-04T16:00:00.000Z</updated>
       <published>2026-07-04T16:00:00.000Z</published>
@@ -36,7 +45,7 @@
     </entry>
     <entry>
       <title>Git 工作流最佳实践</title>
-      <link href="https://mo-notes.example.com/#/post/git-workflow"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/git-workflow"/>
       <id>tag:mo-notes,2026-06-28:git-workflow</id>
       <updated>2026-06-27T16:00:00.000Z</updated>
       <published>2026-06-27T16:00:00.000Z</published>
@@ -45,7 +54,7 @@
     </entry>
     <entry>
       <title>2026 上半年读书笔记与思考</title>
-      <link href="https://mo-notes.example.com/#/post/reading-notes-2026"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/reading-notes-2026"/>
       <id>tag:mo-notes,2026-06-20:reading-notes-2026</id>
       <updated>2026-06-19T16:00:00.000Z</updated>
       <published>2026-06-19T16:00:00.000Z</published>
@@ -54,7 +63,7 @@
     </entry>
     <entry>
       <title>React 性能优化完全指南</title>
-      <link href="https://mo-notes.example.com/#/post/react-performance"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/react-performance"/>
       <id>tag:mo-notes,2026-06-15:react-performance</id>
       <updated>2026-06-14T16:00:00.000Z</updated>
       <published>2026-06-14T16:00:00.000Z</published>
@@ -63,7 +72,7 @@
     </entry>
     <entry>
       <title>Docker 入门：从零到部署</title>
-      <link href="https://mo-notes.example.com/#/post/docker-essentials"/>
+      <link href="https://yzhi1065-bot.github.io/yzbk/#/post/docker-essentials"/>
       <id>tag:mo-notes,2026-06-10:docker-essentials</id>
       <updated>2026-06-09T16:00:00.000Z</updated>
       <published>2026-06-09T16:00:00.000Z</published>
