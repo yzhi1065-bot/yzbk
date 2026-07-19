@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>墨记 — 技术与生活随笔</title>
+  <link href="https://mo-notes.example.com/"/>
+  <link rel="self" href="https://mo-notes.example.com/feed.xml"/>
+  <id>https://mo-notes.example.com/</id>
+  <updated>2026-07-19T02:05:08.360Z</updated>
+  <author><name>墨记</name></author>
+  <subtitle>用文字记录思考，用代码构建世界</subtitle>
+    <entry>
+      <title>你好，世界 — 博客的第一篇文章</title>
+      <link href="https://mo-notes.example.com/#/post/hello-world"/>
+      <id>tag:mo-notes,2026-07-10:hello-world</id>
+      <updated>2026-07-09T16:00:00.000Z</updated>
+      <published>2026-07-09T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>每个程序员的起点似乎都是一句 Hello World。这是我的博客第一篇文章，聊聊我为什么决定开始写博客，以及这个博客是怎么搭建起来的。</summary>
+    </entry>
+    <entry>
+      <title>深入理解 JavaScript 闭包</title>
+      <link href="https://mo-notes.example.com/#/post/understanding-closure"/>
+      <id>tag:mo-notes,2026-07-08:understanding-closure</id>
+      <updated>2026-07-07T16:00:00.000Z</updated>
+      <published>2026-07-07T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>闭包是 JavaScript 中最迷人也最容易让人困惑的概念之一。本文从作用域链出发，一步步带你理解闭包的本质、应用场景和常见陷阱。</summary>
+    </entry>
+    <entry>
+      <title>CSS Grid 与 Flexbox 实战指南</title>
+      <link href="https://mo-notes.example.com/#/post/css-grid-flexbox"/>
+      <id>tag:mo-notes,2026-07-05:css-grid-flexbox</id>
+      <updated>2026-07-04T16:00:00.000Z</updated>
+      <published>2026-07-04T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>Grid 和 Flexbox 是现代 CSS 布局的两大基石。它们各有擅长领域，配合使用能解决几乎所有布局问题。本文通过实战案例讲解两者的核心概念。</summary>
+    </entry>
+    <entry>
+      <title>Git 工作流最佳实践</title>
+      <link href="https://mo-notes.example.com/#/post/git-workflow"/>
+      <id>tag:mo-notes,2026-06-28:git-workflow</id>
+      <updated>2026-06-27T16:00:00.000Z</updated>
+      <published>2026-06-27T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>Git 是程序员的必备工具，但很多人只会 add、commit、push。本文介绍日常开发中常用的 Git 技巧，包括分支策略、交互式变基、冲突解决等。</summary>
+    </entry>
+    <entry>
+      <title>2026 上半年读书笔记与思考</title>
+      <link href="https://mo-notes.example.com/#/post/reading-notes-2026"/>
+      <id>tag:mo-notes,2026-06-20:reading-notes-2026</id>
+      <updated>2026-06-19T16:00:00.000Z</updated>
+      <published>2026-06-19T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>回顾 2026 年上半年读过的几本书。从技术到哲学，从小说到传记，记录一些值得分享的思考和感悟。</summary>
+    </entry>
+    <entry>
+      <title>React 性能优化完全指南</title>
+      <link href="https://mo-notes.example.com/#/post/react-performance"/>
+      <id>tag:mo-notes,2026-06-15:react-performance</id>
+      <updated>2026-06-14T16:00:00.000Z</updated>
+      <published>2026-06-14T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>React 应用跑久了会变慢？本文从组件渲染、状态管理、打包体积三个维度，系统讲解 React 性能优化的实战方法。</summary>
+    </entry>
+    <entry>
+      <title>Docker 入门：从零到部署</title>
+      <link href="https://mo-notes.example.com/#/post/docker-essentials"/>
+      <id>tag:mo-notes,2026-06-10:docker-essentials</id>
+      <updated>2026-06-09T16:00:00.000Z</updated>
+      <published>2026-06-09T16:00:00.000Z</published>
+      <author><name>墨记</name></author>
+      <summary>Docker 已经成为现代开发的标配。本文从零开始，带你理解 Docker 的核心概念，学会编写 Dockerfile，最终部署一个完整的 Web 应用。</summary>
+    </entry>
+</feed>
