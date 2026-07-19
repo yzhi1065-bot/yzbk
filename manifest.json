@@ -1,0 +1,16 @@
+{
+  "name": "墨记 — 技术与生活随笔",
+  "short_name": "墨记",
+  "description": "用文字记录思考，用代码构建世界",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#818cf8",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
